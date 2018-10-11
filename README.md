@@ -13,10 +13,10 @@ Python 2.7. To install all the libraries
 
 ### Table of content
 
-* `main.py`: a simple 3-stock trading environment
-* `inception_blocks_v2.py`: a multi-layer perceptron as the function approximator
+* `main.py`: run main.py file
+* `inception_blocks_v2.py`: Inception Model Architecture
 * `fr_utils.py`: some utility functions
-* `FR-CNN-AI.pdf`: all dependencies
+* `FR-CNN-AI.pdf`: project work PDF
 
 
 ### How to run
