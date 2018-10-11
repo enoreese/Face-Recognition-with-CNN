@@ -8,7 +8,7 @@ A method to produce classification models to automatically recognize a face in a
 
 ### Dependencies
 
-Python 2.7. To install all the libraries, run `pip install -r requirements.txt`
+Python 2.7. To install all the libraries
 
 
 ### Table of content
